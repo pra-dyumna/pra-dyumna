@@ -1,5 +1,5 @@
 # 💫 About Me:
-am an AI & Machine Learning Developer with over two years of hands-on experience in building intelligent systems. I actively explore new AI tools, frameworks, and platforms, and I enjoy developing real-world projects, proof-of-concepts (POCs), and minimum viable products (MVPs). My focus is on continuous learning, experimentation, and creating scalable AI-driven solutions
+I am an AI & Machine Learning Developer with over two years of hands-on experience in building intelligent systems. I actively explore new AI tools, frameworks, and platforms, and I enjoy developing real-world projects, proof-of-concepts (POCs), and minimum viable products (MVPs). My focus is on continuous learning, experimentation, and creating scalable AI-driven solutions
 
 
 # 💻 Tech Stack:
